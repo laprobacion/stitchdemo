@@ -1,0 +1,12 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1501766009;s:6:"expire";i:1501769609;s:4:"tags";s:113:"5fb_BLOCK_HTML,5fb_CATALOG_CATEGORY,5fb_CATALOG_CATEGORY_5,5fb_CATALOG_CATEGORY_6,5fb_CATALOG_CATEGORY_4,5fb_MAGE";}
+
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+	<li class="level0 nav-0 level-top ui-menu-item" role="presentation">
+		<a href="http://127.0.0.1/stitch" class="level-top ui-corner-all" id="ui-id-0" 
+			tabindex="-1" role="menuitem">
+				<span>Home</span>
+		</a>
+	</li>
+        <li  class="level0 nav-1 first level-top"><a href="http://127.0.0.1/stitch/dudes.html"  class="level-top" ><span>Dudes</span></a></li><li  class="level0 nav-2 level-top"><a href="http://127.0.0.1/stitch/babes.html"  class="level-top" ><span>Babes</span></a></li><li  class="level0 nav-3 last level-top parent"><a href="http://127.0.0.1/stitch/brands.html"  class="level-top" ><span>Brands</span></a><ul class="level0 submenu"><li  class="level1 nav-3-1 first"><a href="http://127.0.0.1/stitch/brands/frankenstee.html" ><span>Frankenstee</span></a></li><li  class="level1 nav-3-2"><a href="http://127.0.0.1/stitch/brands/rakistaradio.html" ><span>RakistaRadio</span></a></li><li  class="level1 nav-3-3"><a href="http://127.0.0.1/stitch/brands/tiga-south.html" ><span>Tiga South</span></a></li><li  class="level1 nav-3-4 last"><a href="http://127.0.0.1/stitch/brands/other.html" ><span>Other</span></a></li></ul></li>            </ul>
+</nav>
